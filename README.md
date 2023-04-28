@@ -1,5 +1,5 @@
 # Bomber_Pomodoro
-A técnica Pomodoro baseia-se na divisão do trabalho entre fluxos de concentração intensa, a versão clássica divide o trabalho entre sessões de 25 minutos de trabalho e 5 minutos de descanso. 
+A técnica Pomodoro é muito utilizada para manter uma rotina de estudos ou trabalho, a mesma baseia-se na divisão do trabalho entre fluxos de concentração intensa. A versão clássica divide o trabalho entre sessões de 25 minutos de trabalho e 5 minutos de descanso. 
 Porém, cada um possui um fluxo de foco e de trabalho, existem vários aspectos que podem influenciar nisso, mas não precisamos entrar nesse mérito. Por conta disso, criei minha própria versão do Pomodoro, atribuindo meu próprio fluxo de trabalho a ele.
 Fluxos:
 - 30 minutos de foco no trabalho
